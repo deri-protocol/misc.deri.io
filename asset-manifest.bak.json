@@ -27,8 +27,8 @@
     "main.css": "/static/css/main.badded72.chunk.css",
     "main.js": "/static/js/main.a59f4fbc.chunk.js",
     "main.js.map": "/static/js/main.a59f4fbc.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.15df577e.js",
-    "runtime-main.js.map": "/static/js/runtime-main.15df577e.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d6bdbee1.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d6bdbee1.js.map",
     "static/js/12.0973f0fb.chunk.js": "/static/js/12.0973f0fb.chunk.js",
     "static/js/12.0973f0fb.chunk.js.map": "/static/js/12.0973f0fb.chunk.js.map",
     "static/js/13.ef2c490d.chunk.js": "/static/js/13.ef2c490d.chunk.js",
@@ -99,8 +99,8 @@
     "static/js/37.4a966c32.chunk.js": "/static/js/37.4a966c32.chunk.js",
     "static/js/37.4a966c32.chunk.js.map": "/static/js/37.4a966c32.chunk.js.map",
     "static/css/38.7dd14be1.chunk.css": "/static/css/38.7dd14be1.chunk.css",
-    "static/js/38.7048d8c6.chunk.js": "/static/js/38.7048d8c6.chunk.js",
-    "static/js/38.7048d8c6.chunk.js.map": "/static/js/38.7048d8c6.chunk.js.map",
+    "static/js/38.83ad7160.chunk.js": "/static/js/38.83ad7160.chunk.js",
+    "static/js/38.83ad7160.chunk.js.map": "/static/js/38.83ad7160.chunk.js.map",
     "static/css/39.6c87271a.chunk.css": "/static/css/39.6c87271a.chunk.css",
     "static/js/39.4116c909.chunk.js": "/static/js/39.4116c909.chunk.js",
     "static/js/39.4116c909.chunk.js.map": "/static/js/39.4116c909.chunk.js.map",
@@ -447,7 +447,7 @@
     "static/media/zkSync-logo.svg": "/static/media/zkSync-logo.d2f23696.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15df577e.js",
+    "static/js/runtime-main.d6bdbee1.js",
     "static/js/12.0973f0fb.chunk.js",
     "static/css/main.badded72.chunk.css",
     "static/js/main.a59f4fbc.chunk.js"
